@@ -1,3 +1,3 @@
-module github.com/zhou27/rocketmq
+module github.com/ssdev-go/rocketmq
 
 go 1.13
